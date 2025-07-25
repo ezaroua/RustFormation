@@ -1,0 +1,1 @@
+/home/ilias/Documents/M1_ESGI/S2/rust/formationRust/RustFormation/TP3GestionnaireFichiers/target/debug/TP3GestionnaireFichiers: /home/ilias/Documents/M1_ESGI/S2/rust/formationRust/RustFormation/TP3GestionnaireFichiers/src/main.rs

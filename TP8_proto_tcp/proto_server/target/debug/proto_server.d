@@ -1,0 +1,1 @@
+/home/ilias/Documents/M1_ESGI/S2/rust/formationRust/RustFormation/TP8_proto_tcp/proto_server/target/debug/proto_server: /home/ilias/Documents/M1_ESGI/S2/rust/formationRust/RustFormation/TP8_proto_tcp/proto_server/src/main.rs

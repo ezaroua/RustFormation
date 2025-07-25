@@ -1,0 +1,1 @@
+/home/ilias/Documents/M1_ESGI/S2/rust/formationRust/RustFormation/TP7DNS/dns_client/target/debug/dns_client: /home/ilias/Documents/M1_ESGI/S2/rust/formationRust/RustFormation/TP7DNS/dns_client/src/main.rs

@@ -1,0 +1,1 @@
+/home/ilias/Documents/M1_ESGI/S2/rust/formationRust/RustFormation/TP9WebSocket/websocket_server/target/debug/websocket_server: /home/ilias/Documents/M1_ESGI/S2/rust/formationRust/RustFormation/TP9WebSocket/websocket_server/src/main.rs

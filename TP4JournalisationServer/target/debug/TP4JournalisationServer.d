@@ -1,0 +1,1 @@
+/home/ilias/Documents/M1_ESGI/S2/rust/formationRust/RustFormation/TP4JournalisationServer/target/debug/TP4JournalisationServer: /home/ilias/Documents/M1_ESGI/S2/rust/formationRust/RustFormation/TP4JournalisationServer/src/main.rs
