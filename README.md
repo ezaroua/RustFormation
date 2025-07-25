@@ -49,9 +49,9 @@ Implémenter un serveur WebSocket et un client WebSocket capables de communiquer
 
 2.Architecture
 
-websocket_server/ : Serveur WebSocket basé sur tokio-tungstenite
+    -websocket_server/ : Serveur WebSocket basé sur tokio-tungstenite
 
-websocket_client/ : Client WebSocket interactif
+    -websocket_client/ : Client WebSocket interactif
 
 3.Technologies utilisées
 
@@ -63,35 +63,35 @@ websocket_client/ : Client WebSocket interactif
 
 4.Fonctionnalités
 
--Connexion WebSocket complète (handshake)
+    -Connexion WebSocket complète (handshake)
 
--Gestion de plusieurs clients simultanés
+    -Gestion de plusieurs clients simultanés
 
--Communication full-duplex
+    -Communication full-duplex
 
--Réponse automatique du serveur à chaque message
+    -Réponse automatique du serveur à chaque message
 
--Envoi automatique de messages (ping) toutes les 5 secondes
+    -Envoi automatique de messages (ping) toutes les 5 secondes
 
--Horodatage lisible avec chrono
+    -Horodatage lisible avec chrono
 
 5.Lancer le TP:
 
--Serveur :
-    cd websocket_server
-    cargo run
+    -Serveur :
+        cd websocket_server
+        cargo run
 
--Client :    
-    cd websocket_client
-    cargo run
+    -Client :    
+        cd websocket_client
+        cargo run
 
 
 6.Compétences mises enoeuvre
 
--Utilisation d’un protocole existant (WebSocket)
+    -Utilisation d’un protocole existant (WebSocket)
 
--Programmation asynchrone avec Tokio
+    -Programmation asynchrone avec Tokio
 
--Gestion de split(), SinkExt, StreamExt
+    -Gestion de split(), SinkExt, StreamExt
 
--Envoi et réception de messages texte
+    -Envoi et réception de messages texte
